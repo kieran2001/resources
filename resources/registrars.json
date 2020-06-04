@@ -8,6 +8,12 @@
           "url": "https://godaddy.com",
           "tags": ["registrar", "hosting", "ssl", "email"]
         },
+           {
+            "title": "Vimly Digital", 
+            "desc": " Vimly Digital is a small domain registar based in Durham, England. They pride themselves on providing the best prices on domains through over a dozen wholesalers.",
+            "url": "https://go.vimly.uk/domains",
+            "tags": ["registrar", "hosting", "ssl", "email"]
+        },
         {
             "title": "Namecheap",
             "desc": "Namecheap is an affordable, modern domain name registrar, but they also include a number of other services. Check their site regularly because they frequently have big sales and discounts.",
